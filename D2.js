@@ -25,7 +25,7 @@ if (x !== y) {
 const a = 25;
 const b = 5;
 
-if (a % b) {
+if (a % b === 0) {
   console.log("divisibile per 5");
 } else {
   console.log("non divisibile");
