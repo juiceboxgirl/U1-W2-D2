@@ -65,7 +65,7 @@ let totalShoppingCart = 75;
 if (totalShoppingCart > 50) {
   console.log("Your total is 75€. Congratulations! Your shipping fee is on us :)");
 } else {
-  console.log("Oh no! Your shopping cart is less than 50€. Unlock 50€ of shopping to get free shipping! :)");
+  console.log("Oh no! Your shopping cart is less than 50€. Unlock 50€ of great stuff to get free shipping! :)");
 }
 
 /* ESERCIZIO 6
